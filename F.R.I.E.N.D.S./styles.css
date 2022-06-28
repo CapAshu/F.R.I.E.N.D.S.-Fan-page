@@ -1,0 +1,75 @@
+
+body{
+    margin:0;
+}
+
+
+
+
+#title{
+    text-align: center;
+    background-color: #FFE6E6;
+    margin-top: 0;
+}
+#cast{
+    margin:10% 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.six-cast{
+    padding:5% 10%;
+    text-align: center;
+}
+.six-cast img{
+    height:50%;
+    border-radius: 80%;
+}
+.col-lg-4{
+    margin:4%;
+    width:25%;
+    border-radius: 10%;
+}
+
+.navbar{
+    padding-top: 3%;
+}
+
+
+.navbar-brand{
+    color:black;
+    margin-left: 5%;
+    font-size: 1.5 rem;
+}
+.friends-img{
+    padding:8% 5% 0;
+    margin:3% auto 3% auto;
+}
+
+.navbar-items{
+    margin-left: auto;
+    padding-right: 8%;
+    font-size: 1.2 rem;
+}
+.nav-item{
+    margin:0 3%;
+}
+.title-text{
+    width:40%;
+    margin:auto;
+    padding-bottom: 5%;
+}
+
+
+
+    
